@@ -9,7 +9,7 @@ Over the last decade I have been <a href="https://georgebrata.ro/portfolio">craf
 <a href="https://github.com/georgebrata/georgebrata">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=georgebrata&show_icons=true&show=prs_merged&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=georgebrata&show_icons=true&show=prs_merged,reviews&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -22,14 +22,14 @@ Over the last decade I have been <a href="https://georgebrata.ro/portfolio">craf
 <a href="https://github.com/georgebrata/georgebrata">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=georgebrata&layout=donut&langs_count6&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=georgebrata&layout=donut&langs_count7&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=georgebrata&layout=donut&langs_count=6"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=georgebrata&layout=donut&langs_count=7"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=georgebrata&layout=donut&langs_count=6" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=georgebrata&layout=donut&langs_count=7" />
   </picture></a>
 
 <br>
