@@ -1,17 +1,19 @@
 ### Web aficionado. AI enthusiast. Coffee sponge.
-<table border="0" cellspacing="0" cellpadding="0" style="border:0;border-collapse:collapse;">
-<tr style="border:0;">
-<td width="50%" valign="top" style="border:0; padding:0;">
+<table border="0" cellspacing="0" cellpadding="0" style="border-color: transparent;">
+<tr style="border-color: transparent;">
+<td width="50%" valign="top" style="border-color: transparent;">
 
 Over the last decade I have been crafting modern web applications and landing pages in all kinds of professional environments, from start-up to corporate. I am comfortable wearing multiple hats in the process of building digital products if the high-level vision is <b>making the world a better place for all humanity</b>.
 
 <br><br>
 
-Get in touch at <a href="mailto:george@brata.ro">george@brata.ro</a> 📩
+ 📩
+🌐 Learn more on my website <a target="_blank" href="georgebrata.ro">georgebrata.ro</a> 
+📩 Get in touch at <a target="_blank" href="mailto:george@brata.ro">george@brata.ro</a>
 
 </td>
 
-<td width="50%" valign="top" style="border:0; padding:0;">
+<td width="50%" valign="top" style="border-color: transparent;">
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=georgebrata&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
