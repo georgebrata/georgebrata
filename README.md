@@ -7,15 +7,7 @@ Over the last decade I have been <a href="https://georgebrata.ro/portfolio">craf
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<br>
-<p align="center">
-  <picture width="47%">
+  <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=georgebrata&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -26,9 +18,14 @@ Over the last decade I have been <a href="https://georgebrata.ro/portfolio">craf
     />
     <img src="https://github-readme-stats.vercel.app/api?username=georgebrata&show_icons=true" />
   </picture>
-  <img width="52%" align="top" src="https://streak-stats.demolab.com/?user=georgebrata&theme=default_repocard&hide_border=false" />
-</p>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgebrata&layout=compact&langs_count=10" />
+</a>
+
 <br>
+<br>
+
 
 
 ### Socials
