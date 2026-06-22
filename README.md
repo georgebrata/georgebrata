@@ -2,7 +2,7 @@
 Over the last decade I have been crafting modern web applications and landing pages in all kinds of professional environments, from start-up to corporate. I am comfortable wearing multiple hats in the process of building digital products if the high-level vision is <b>making the world a better place for all humanity</b>.
 <br>
 <p align="center">
-  <img width="33%" align="top" src="https://github-readme-stats.shion.dev/api/top-langs/?username=georgebrata&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="99%" align="top" src="https://github-readme-stats.shion.dev/api/top-langs/?username=georgebrata&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 <br>
 🌐 Learn more: <a target="_blank" href="georgebrata.ro">georgebrata.ro</a> <br>
