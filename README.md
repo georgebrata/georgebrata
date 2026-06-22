@@ -1,4 +1,15 @@
-[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgebrata)](https://github.com/georgebrata/georgebrata)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=georgebrata&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=georgebrata&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=georgebrata&show_icons=true" />
+</picture>
+
 
 ### Web aficionado. AI enthusiast. Coffee sponge.
 Over the last decade I have been <a href="https://georgebrata.ro/portfolio">crafting</a> modern web applications and landing pages in all kinds of professional environments, from start-up to corporate. I am comfortable wearing multiple hats in the process of building global digital products if the high-level vision is <b>making the world a better place for all humanity</b>, like we do with the non-profit project <a target="_blank" href="https://dofe.ro/en/">DofE International Award</a>.
