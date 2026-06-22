@@ -9,27 +9,27 @@ Over the last decade I have been <a href="https://georgebrata.ro/portfolio">craf
 <a href="https://github.com/georgebrata/georgebrata">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=georgebrata&show_icons=true&show=prs_merged&show=prs_merged_percentage&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=georgebrata&show_icons=true&show=prs_merged,discussions_started&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=georgebrata&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,"
+      srcset="https://github-readme-stats.vercel.app/api?username=georgebrata&show_icons=true&show=prs_merged,discussions_started"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=georgebrata&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+    <img src="https://github-readme-stats.vercel.app/api?username=georgebrata&show_icons=true&show=prs_merged,discussions_started" />
   </picture>
 </a>
 <a href="https://github.com/georgebrata/georgebrata">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=georgebrata&layout=donut&langs_count7&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=georgebrata&layout=donut&langs_count5&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=georgebrata&layout=donut&langs_count=7"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=georgebrata&layout=donut&langs_count=5"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=georgebrata&layout=donut&langs_count=7" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=georgebrata&layout=donut&langs_count=5" />
   </picture></a>
 
 <br>
