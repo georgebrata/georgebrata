@@ -9,14 +9,14 @@ Over the last decade I have been <a href="https://georgebrata.ro/portfolio">craf
 <a href="https://github.com/georgebrata/georgebrata">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=georgebrata&show_icons=true&show=prs_merged,discussions_started&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=georgebrata&show_icons=true&show=prs_merged,discussions_started&rank_icon=percentile&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=georgebrata&show_icons=true&show=prs_merged,discussions_started"
+      srcset="https://github-readme-stats.vercel.app/api?username=georgebrata&show_icons=true&show=prs_merged,discussions_started&rank_icon=percentile"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=georgebrata&show_icons=true&show=prs_merged,discussions_started" />
+    <img src="https://github-readme-stats.vercel.app/api?username=georgebrata&show_icons=true&show=prs_merged,discussions_started&rank_icon=percentile" />
   </picture>
 </a>
 <a href="https://github.com/georgebrata/georgebrata">
