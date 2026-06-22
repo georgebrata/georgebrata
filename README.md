@@ -1,11 +1,7 @@
 ### Web aficionado. AI enthusiast. Coffee sponge.
 
 <p align="center">
-  Over the last decade I have been crafting modern web applications and landing pages in all kinds of professional environments, from start-up to corporate. I am comfortable wearing multiple hats in the process of building digital products if the high-level vision is making the world a better place for all humanity.
-<br><br>
-🌐 Learn more on my website <a href="georgebrata.ro">georgebrata.ro</a><br>
-📩 Get in touch at <a href="mailto:george@brata.ro">george@brata.ro</a>
-<br><br>
+
   <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=georgebrata&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 <br>
