@@ -22,7 +22,7 @@ Over the last decade I have been <a href="https://georgebrata.ro/portfolio">craf
 <a href="https://github.com/georgebrata/georgebrata">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=georgebrata&layout=donut&langs_count=10&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=georgebrata&layout=donut&langs_count=4&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
