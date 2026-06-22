@@ -1,5 +1,5 @@
 ### Web aficionado. AI enthusiast. Coffee sponge.
-Over the last decade I have been <a href="https://georgebrata.ro/portfolio">crafting</a> modern web applications and landing pages in all kinds of professional environments, from start-up to corporate. I am comfortable wearing multiple hats in the process of building global digital products if the high-level vision is <b>making the world a better place for all humanity</b>, like we do with the non-profit project <a target="_blank" href="https://dofe.ro/en/">The Duke of Edinburgh's International Award Romania</a>.
+Over the last decade I have been <a href="https://georgebrata.ro/portfolio">crafting</a> modern web applications and landing pages in all kinds of professional environments, from start-up to corporate. I am comfortable wearing multiple hats in the process of building global digital products if the high-level vision is <b>making the world a better place for all humanity</b>, like we do with the non-profit project <a target="_blank" href="https://dofe.ro/en/">DofE International Award</a>.
 
 <br>
 <p align="center">
